@@ -1,0 +1,1 @@
+rabbitmq作为gate,game的中间mq broker
